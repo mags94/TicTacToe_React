@@ -30,7 +30,7 @@ When the player who has chosen 'X' wins :
 
 ![image](https://user-images.githubusercontent.com/26045231/50727281-b98a3d80-113e-11e9-8bb0-92011239bc59.png)
 
-When the player who has hosen 'O' wins :
+When the player who has chosen 'O' wins :
 
 ![image](https://user-images.githubusercontent.com/26045231/50727298-fce4ac00-113e-11e9-8890-10c15616a56d.png)
 
