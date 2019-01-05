@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+.OuterDiv{
+    margin-left: 30px;
+    padding: 30px;   
+}
+
+
+.Box{
+    display: inline-block;
+    margin-right: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: darkkhaki;
+    border: 4px solid darkgrey;
+    cursor: pointer;
+    color: white;
+    font-size: 62px;
+    font-weight: bolder;
+    padding: 26px;   
+}
+
+.Button{
+    display: block;
+    margin-left: 102px;
+    margin-top: 20px;
+    width: 120px;
+    height: 60px;
+    border-radius: 15px;
+    border: 2px solid skyblue;
+    background-color: darkturquoise;
+    cursor: pointer;
+    outline: none;
+ 
+}
